@@ -8,7 +8,7 @@ giturl: https://github.com/ontio/ontology-java-sdk/blob/master/docs/en/Wallet_Fi
 ---
 
 
-English / [한국어](./Wallet_File_Specification_cn.html)
+English / [한국어](./Wallet_File_Specification_ko.html)
 
 
 <h1 align="center">Wallet File Specification </h1>
